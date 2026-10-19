@@ -1,0 +1,13 @@
+﻿archetype,jd_count,share,projects
+Agent算法/研究,570,57.0,"核心作品：langchain-ai/langchain（6h, 难度2/5, S级） ｜ 速成作品：huggingface/peft（3h, 难度2/5, B级） ｜ 硬核加分：huggingface/trl（6h, 难度3/5, B级）"
+Agent应用开发,246,24.6,"核心作品：langchain-ai/langchain（6h, 难度2/5, S级） ｜ 速成作品：lobehub/lobe-chat（2h, 难度1/5, B级） ｜ 硬核加分：SWE-agent/SWE-agent（6h, 难度3/5, B级）"
+AI产品经理/产品,49,4.9,"核心作品：lobehub/lobe-chat（2h, 难度1/5, B级） ｜ 速成作品：open-webui/open-webui（2h, 难度1/5, B级） ｜ 硬核加分：n8n-io/n8n（4h, 难度2/5, C级）"
+AI Infra/推理部署,39,3.9,"核心作品：ollama/ollama（1h, 难度1/5, B级） ｜ 速成作品：ggml-org/llama.cpp（5h, 难度3/5, B级） ｜ 硬核加分：vllm-project/vllm（6h, 难度3/5, B级）"
+RAG/知识库工程,38,3.8,"核心作品：langgenius/dify（3h, 难度1/5, A级） ｜ 速成作品：Arize-ai/phoenix（3h, 难度2/5, B级） ｜ 硬核加分：milvus-io/milvus（6h, 难度3/5, B级）"
+多模态/具身,27,2.7,"核心作品：openai/whisper（2h, 难度1/5, B级） ｜ 速成作品：SYSTRAN/faster-whisper（2h, 难度1/5, D级） ｜ 硬核加分：QwenLM/Qwen3-VL（6h, 难度3/5, D级）"
+Agent安全,7,0.7,"核心作品：NVIDIA/NeMo-Guardrails（4h, 难度2/5, B级） ｜ 速成作品：guardrails-ai/guardrails（3h, 难度2/5, D级） ｜ 硬核加分：meta-llama/PurpleLlama（5h, 难度3/5, D级）"
+大模型训练/微调,7,0.7,"核心作品：hiyouga/LLaMA-Factory（5h, 难度2/5, A级） ｜ 速成作品：huggingface/peft（3h, 难度2/5, B级） ｜ 硬核加分：huggingface/trl（6h, 难度3/5, B级）"
+其他Agent相关,6,0.6,"核心作品：langchain-ai/langchain（6h, 难度2/5, S级） ｜ 速成作品：lobehub/lobe-chat（2h, 难度1/5, B级） ｜ 硬核加分：microsoft/autogen（5h, 难度2/5, B级）"
+AI测试/评测,5,0.5,"核心作品：open-compass/opencompass（4h, 难度2/5, B级） ｜ 速成作品：Arize-ai/phoenix（3h, 难度2/5, B级） ｜ 硬核加分：NVIDIA/NeMo-Guardrails（4h, 难度2/5, B级）"
+全栈/前端AI应用,5,0.5,"核心作品：langchain-ai/langchain（6h, 难度2/5, S级） ｜ 速成作品：lobehub/lobe-chat（2h, 难度1/5, B级） ｜ 硬核加分：microsoft/autogen（5h, 难度2/5, B级）"
+AI解决方案/交付,1,0.1,"核心作品：langchain-ai/langchain（6h, 难度2/5, S级） ｜ 速成作品：lobehub/lobe-chat（2h, 难度1/5, B级） ｜ 硬核加分：microsoft/autogen（5h, 难度2/5, B级）"

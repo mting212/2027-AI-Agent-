@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Data / crawl artifacts（体积大，可重新生成）
+raw/
+data/repos_raw.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# QA / preview artifacts
+output/preview_*/
+output/checks_*.json
+*.log

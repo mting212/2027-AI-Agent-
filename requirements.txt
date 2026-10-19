@@ -1,0 +1,9 @@
+# 采集与分析
+requests>=2.31
+pandas>=2.0
+numpy>=1.24
+
+# Excel / Word / 图表
+openpyxl>=3.1
+python-docx>=1.1
+matplotlib>=3.7
